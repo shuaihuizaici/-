@@ -1,0 +1,1 @@
+import{q as n,k as o}from"./index-B9zWtJm9.js";import{i as s}from"./request-Bl3HPWDP.js";function a(){return s({url:"/home/category/head"})}const u=n("fenlei",()=>{let e=o([]);async function t(){let r=await a();e.value=r.result}return t(),{fenList:e}});export{u};
